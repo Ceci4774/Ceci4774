@@ -43,10 +43,34 @@ Si quieres contribuir a alguno de mis proyectos, no dudes en:
 **PROYECTOS**
 
 * **Global Súper Store:** Limpieza y filtrado de tablas en Google sheets, destacando las metricas para su posterior visualizacion, para la toma de desiciones, se utilizo google sheets.
+* **Objetivos:**
+1. Buscar
+  
+  ![](https://github.com/Ceci4774/Ceci4774/blob/main/MASTER%20SUPER%20STORE.jpg)
+  
 * **Fast Foots:** Creación de las tablas para la base de datos, estableciendo sus relaciones y luego se realizo su carga de datos. se utilizo las funciones adecuadas para establecer las métricas para su posterior consulta, se utilizo SQL Server.
+* **Objetivos:**
+1. Buscar
+  
+ ![](https://github.com/Ceci4774/Ceci4774/blob/main/IMG-20240814-WA0049.jpg)
+ 
 * **Adventure Works Cycles:** Análisis de la base de datos, limpieza, filtrado de datos y creación de métricas para la visualización de los datos mediante el dashboard utilizando Power BI.
+** **Objetivos:**
+1. Buscar
+   
+ ![](https://github.com/Ceci4774/Ceci4774/blob/main/cycles.jpg)
+   
 *  **Bio Genesys:** Limpieza de datos, filtrados, aplicación de ETL mediante Python y sus librerías como Pandas y para su visualización Matplotlip y Seaborns.
+** **Objetivos:**
+1. Buscar
+
+ ![](https://github.com/Ceci4774/Ceci4774/blob/main/BIO%20GENESIS.jpg)
+ 
 * **Bodega Inteligente:** Carga de la base de datos, conexión entre SQL server y Big Query, para la automatización, limpieza de datos , filtrado, creación de métricas, y establecer las consultas mediante Python y su visualización mediante Power Bi.
+** **Objetivos:**
+1. Buscar
+
+![](https://github.com/Ceci4774/Ceci4774/blob/main/BODEGA%20INTELIGENTE.jpg)
 
 **CONTACTO**
 
