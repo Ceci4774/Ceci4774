@@ -42,7 +42,7 @@ Si quieres contribuir a alguno de mis proyectos, no dudes en:
 
 **PROYECTOS**
 
-* **Global Súper Store:** Limpieza y filtrado de tablas en Google sheets, destacando las metricas para su posterior visualizacion, para la toma de desiciones, se utilizo google sheets.
+* **GLOBAL SÚPER STORE:** Limpieza y filtrado de tablas en Google sheets, destacando las metricas para su posterior visualizacion, para la toma de desiciones, se utilizo google sheets.
 * **Objetivo:**
 1. Predecir las ventas futuras y el stock.
   
@@ -52,7 +52,7 @@ Si quieres contribuir a alguno de mis proyectos, no dudes en:
   Limpieza y filtrado de tablas en Google sheets, destacando las metricas para su posterior visualizacion, para la toma de desiciones.
 limpieza y filtrado de tablas en Google sheets, destacando las metricas para su posterior visualizacion, para la toma de desiciones.
   
-* **Fast Foots:** Creación de las tablas para la base de datos, estableciendo sus relaciones y luego se realizo su carga de datos. se utilizo las funciones adecuadas para establecer las métricas para su posterior consulta, se utilizo SQL Server.
+* **FAST FOTS:** Creación de las tablas para la base de datos, estableciendo sus relaciones y luego se realizo su carga de datos. se utilizo las funciones adecuadas para establecer las métricas para su posterior consulta, se utilizo SQL Server.
 * **Objetivo:**
 1. Obtener los platos principales de mayor consumo y el movimiento de cada menú.
   
@@ -61,7 +61,7 @@ limpieza y filtrado de tablas en Google sheets, destacando las metricas para su 
   **Descripción:**
   Creación de las tablas para la base de datos, estableciendo sus relaciones y luego se realizo su carga de datos. se utilizo las funciones adecuadas para establecer las métricas para su posterior consulta. se utilizo SQL SERVER.
  
-* **Adventure Works Cycles:** Análisis de la base de datos, limpieza, filtrado de datos y creación de métricas para la visualización de los datos mediante el dashboard utilizando Power BI.
+* **ADVENTURE WORKS CYCLES:** Análisis de la base de datos, limpieza, filtrado de datos y creación de métricas para la visualización de los datos mediante el dashboard utilizando Power BI.
 ** **Objetivo:**
 1. Predecir la venta de bicicletas por marca y tamaño.
    
@@ -70,7 +70,7 @@ limpieza y filtrado de tablas en Google sheets, destacando las metricas para su 
   **Descripción:**
   Análisis de la base de datos, limpieza, filtrado de datos y creación de métricas para la visualización de los datos mediante el dashboard utilizando Power Bi.
   
-*  **Bio Genesys:** Limpieza de datos, filtrados, aplicación de ETL mediante Python y sus librerías como Pandas y para su visualización Matplotlip y Seaborns.
+*  **BIO GENESYS:** Limpieza de datos, filtrados, aplicación de ETL mediante Python y sus librerías como Pandas y para su visualización Matplotlip y Seaborns.
 *  **Objetivo:**
 1. Encontrar dónde es conveniente expandir el laboratorio.
 
@@ -79,7 +79,7 @@ limpieza y filtrado de tablas en Google sheets, destacando las metricas para su 
   **Descripción:**
   Limpieza de datos, filtrados, aplicación de ETL mediante Python y sus librerías como Pandas y para su visualización Matplotlib y Seaborn.
    
-* **Bodega Inteligente:** Carga de la base de datos, conexión entre SQL server y Big Query, para la automatización, limpieza de datos , filtrado, creación de métricas, y establecer las consultas mediante Python y su visualización mediante Power Bi.
+* **BODEGA INTELIGENTE:** Carga de la base de datos, conexión entre SQL server y Big Query, para la automatización, limpieza de datos , filtrado, creación de métricas, y establecer las consultas mediante Python y su visualización mediante Power Bi.
 ** **Objetivo:**
 1. Controlar el problema de desabastecimiento, con sus costos y el sobre stock.
 
